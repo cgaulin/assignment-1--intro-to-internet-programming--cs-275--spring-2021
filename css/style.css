@@ -40,5 +40,6 @@ main{
 }
 
 p{
+  border: 1px solid white;
   padding: 30px;
 }
