@@ -27,6 +27,7 @@ h2{
 }
 
 h3{
+  padding: 2px;
   display: flex;
   justify-content: center;
 }
