@@ -15,6 +15,7 @@ h1{
   font-family: Roboto;
   padding-bottom: 10px;
   color: #FFFFFF;
+  background-color: black;
   display: flex;
   justify-content: center;
 }
